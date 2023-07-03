@@ -1,0 +1,13 @@
+.testClass{
+    font-size: 50px;
+    font-weight: 700;
+    color: brown;
+}
+
+.styleTest{
+    color: blue;
+}
+
+#styleTest{
+    color: blue;
+}

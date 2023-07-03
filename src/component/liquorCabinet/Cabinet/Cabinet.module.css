@@ -1,0 +1,6 @@
+.case{
+    width: 20rem;
+    min-height: 40rem;
+    background-color: bisque;
+    border-radius: 5px;
+}
